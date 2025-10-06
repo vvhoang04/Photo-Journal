@@ -187,4 +187,26 @@ Mobile	Capacitor Camera	Filesystem + Preferences
 
 Hỗ trợ Web Share API cho trình duyệt hiện đại
 
-📸 Screenshots
+📸 Screensh
+1. Trang chủ
+   ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+2. Chụp ảnh
+    ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+3. Thêm tiêu đề
+    ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+4. Sửa tiêu đề
+    ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+5. Filter
+     ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+6. chia sẻ
+     ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+
+
+
+
+
+
+
+
+
+
