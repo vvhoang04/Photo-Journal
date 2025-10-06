@@ -193,13 +193,13 @@ Hỗ trợ Web Share API cho trình duyệt hiện đại
 2. Chụp ảnh
     ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/38c16a6936a2726416af075d17da6de6aad98a7e/Ch%E1%BB%A5p-%E1%BA%A3nh.png)
 3. Thêm tiêu đề
-    ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+    ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/08abc15d83e050153c6f38c34e68123c68dc2c93/Th%C3%AAm-ti%C3%AAu-%C4%91%E1%BB%81.png)
 4. Sửa tiêu đề
-    ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+    ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/08abc15d83e050153c6f38c34e68123c68dc2c93/S%E1%BB%ADa-ti%C3%AAu-%C4%91%E1%BB%81.png)
 5. Filter
-     ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+     ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/08abc15d83e050153c6f38c34e68123c68dc2c93/Filter.png)
 6. chia sẻ
-     ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/a17776c09393f8d9c3de9b232f6ff8c5ef2f1afe/Trangchu.png)
+     ![image alt](https://github.com/vvhoang04/Photo-Journal/blob/08abc15d83e050153c6f38c34e68123c68dc2c93/Chia-s%E1%BA%BB.png)
 
 
 
